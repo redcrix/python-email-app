@@ -10,7 +10,7 @@ gunicorn==19.9.0
 idna==2.8
 lxml==4.3.4
 Markdown==3.1.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 premailer==3.4.1
 py3dns==3.2.0
 pytz==2019.1
